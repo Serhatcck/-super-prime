@@ -1,3 +1,3 @@
-# -super-prime
+# Super Prime
 
 super prime numbers
